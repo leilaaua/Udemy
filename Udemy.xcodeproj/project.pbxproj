@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		21662A7C282586DB0059480F /* model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21662A7B282586DB0059480F /* model.swift */; };
 		2183A63C281D890A00EF7FD0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2183A63B281D890A00EF7FD0 /* AppDelegate.swift */; };
 		2183A63E281D890A00EF7FD0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2183A63D281D890A00EF7FD0 /* SceneDelegate.swift */; };
 		2183A640281D890A00EF7FD0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2183A63F281D890A00EF7FD0 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		21662A7B282586DB0059480F /* model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = model.swift; sourceTree = "<group>"; };
 		2183A638281D890A00EF7FD0 /* Udemy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Udemy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2183A63B281D890A00EF7FD0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2183A63D281D890A00EF7FD0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				2183A63B281D890A00EF7FD0 /* AppDelegate.swift */,
 				2183A63D281D890A00EF7FD0 /* SceneDelegate.swift */,
 				2183A63F281D890A00EF7FD0 /* ViewController.swift */,
+				21662A7B282586DB0059480F /* model.swift */,
 				2183A641281D890A00EF7FD0 /* Main.storyboard */,
 				2183A644281D891000EF7FD0 /* Assets.xcassets */,
 				2183A646281D891000EF7FD0 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				2183A640281D890A00EF7FD0 /* ViewController.swift in Sources */,
 				2183A63C281D890A00EF7FD0 /* AppDelegate.swift in Sources */,
 				2183A63E281D890A00EF7FD0 /* SceneDelegate.swift in Sources */,
+				21662A7C282586DB0059480F /* model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
