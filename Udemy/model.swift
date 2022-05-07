@@ -8,4 +8,5 @@
 import Foundation
 import UIKit
 
-print("hi")
+var new = "hello"
+
