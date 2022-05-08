@@ -9,5 +9,5 @@ import Foundation
 import UIKit
 
 
-var new = "hellorfdbfjbdffvvcfvdSHA256:jIvf4xwiPKdczj2Xgrm0jaumCyXdH9IDU/NwB+vC706bId"
+var new = "hellorfdbfjbzj2Xgrm0jaumCyXdH9IDU/NwBвав+vC706bId"
 
